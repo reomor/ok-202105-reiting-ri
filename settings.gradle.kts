@@ -10,5 +10,6 @@ pluginManagement {
 }
 
 include(
-  "ok-m2l2-testing"
+  "ok-m2l2-testing",
+  "ok-common"
 )
